@@ -90,7 +90,7 @@ kubectl get svc -w
 
 TASK 8 -----------------------------------------------------------------
 
-FOLLOW THE LAB
+In search type Monitoring then click for uptime check and create uptime check paste the external ip in the hostname and leave other default and click for create
 
 TASK 9 -----------------------------------------------------------------
 
